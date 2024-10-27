@@ -1,5 +1,5 @@
 # Ritika
-I’m Ritika Juneja
+I’m Ritika Juneja #DataDetective
 
 🔍 Data Scientist | Machine Learning Enthusiast | Open Source Contributor
 
